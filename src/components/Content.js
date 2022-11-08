@@ -12,6 +12,10 @@ const Content=()=>{
             <h1>My Decade In Review</h1>
             <p>Saturday 11th,2018 5min read</p>
             <p>A personel reflection </p>
+            <h1> </h1>
+            <h1>What are the React team Principles</h1>
+            <p>Thursday 4th,2015 5min read</p>
+            <p>A personel reflection </p>
           
         </div>
     )
